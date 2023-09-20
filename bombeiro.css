@@ -45,3 +45,19 @@ align-content: center;
 background-color: aqua;
 
 }
+.labell {
+    width: 20vmin;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: solid 2px black;
+    font-size: 2vmin;
+    outline: none;
+}
+
+.respiratorio {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    align-items: center;
+}
